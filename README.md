@@ -1,8 +1,8 @@
 # Bar-Graph
 Simple Bar Graph built with Swift UI
 
-![Screenshot](Screen1.png)
-![Screenshot](Screen2.png)
+![Screenshot](Screen1.jpg)
+![Screenshot](Screen2.jpg)
 
 ## Usage
 
